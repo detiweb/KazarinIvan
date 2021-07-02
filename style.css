@@ -1,0 +1,25 @@
+body{
+	background: green;
+	background-repeat: no-repeat;
+}
+img{
+	border: 6px solid darkcyan;
+	border-radius: 10px;
+} 
+h1{
+	text-align: center;
+	text-decoration: underline;
+}
+.card{
+	width: 30%;
+	height: 150px;
+	margin-left: 3%;
+	display: inline-block;
+}
+#ap{
+	position: fixed;
+	bottom: 5px;
+	left: 5px;
+	z-index: 10;
+}
+
